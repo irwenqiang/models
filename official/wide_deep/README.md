@@ -50,3 +50,5 @@ tensorboard --logdir=/tmp/census_model
 If you are interested in distributed training, take a look at [Distributed TensorFlow](https://www.tensorflow.org/deploy/distributed).
 
 You can also [run this model on Cloud ML Engine](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction), which provides [hyperparameter tuning](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction#hyperparameter_tuning) to maximize your model's results and enables [deploying your model for prediction](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction#deploy_a_model_to_support_prediction).
+
+## [Wide and Deep Tutorial with TFRecord and Queue](https://gist.github.com/cirocavani/7d9e827102093139acd400b02d2e7afb)
